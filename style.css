@@ -1,0 +1,27 @@
+.btnjs {
+    padding: auto;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+
+.btnjs:hover {
+    background-color: white;
+    color: black;
+}
+#bi {
+    background-image: url('https://img.freepik.com/free-photo/top-view-background-beautiful-white-grey-brown-cream-blue-background_140725-72219.jpg?w=2000');
+    background-size: auto ;
+    background-repeat: no-repeat;
+    
+    
+}
+#mainlist{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maindiv{
+   margin-top: 80px;
+}
